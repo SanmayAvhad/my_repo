@@ -4,16 +4,6 @@
          "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?", "Hello! I'm TSEC CHATBOT. How may I help you?", "Hey there!"],
          "context_set": ""
         },
-        {"tag": "book_table",
-         "patterns": ["Book a table","Can I book a table?", "I want to book a table", "Book seat", "I want to book a seat", "Can I book a seat?"],
-         "responses": [""],
-         "context_set": ""
-        },
-        {"tag": "available_tables",
-         "patterns": ["How many seats are available?", "Available seats", "How many tables are available?", "Available tables"],
-         "responses": [""],
-         "context_set": ""
-        },
         {"tag": "goodbye",
          "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day", "cya later", "I gotta go now", "I gotta rush now"],
          "responses": ["Sad to see you go :(", "Talk to you later", "Goodbye!"],
@@ -36,7 +26,7 @@
         },
         {"tag": "address",
          "patterns": ["what is the location?","whats the location", "where are you locatated?", "where is the restaurant located?", "address", "whats the address?"],
-         "responses": ["You can locate us at W, P. G. Kher Marg, 32nd Road, Marg, Off Linking Rd, TPS III, Bandra West, Mumbai, Maharashtra 400050"],
+         "responses": ["You can locate us near MSEB Sub Station, Sector-5, Kharghar, Navi Mumbai, Maharashtra 410210"],
          "context_set": ""
         },
          {"tag": "fees",
