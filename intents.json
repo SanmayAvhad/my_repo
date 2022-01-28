@@ -1,6 +1,6 @@
 {"intents": [
         {"tag": "greeting",
-         "patterns": ["hi", "hey", "how are you", "is anyone there?", "Hello", "Good day", "Whats up"],
+         "patterns": ["hi", "hey", "how are you", "is anyone there?", "hello", "Good day", "Whats up"],
          "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?", "Hello! I'm TSEC CHATBOT. How may I help you?", "Hey there!"],
          "context_set": ""
         },
